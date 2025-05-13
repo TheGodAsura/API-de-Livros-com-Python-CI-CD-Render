@@ -1,2 +1,3 @@
-# API-de-Livros-com-Python-CI-CD-Render
-Atividade Prática – API de Livros com Python + CI/CD + Render
+# API de Livros com Python
+
+Simula uma API básica com rotas GET e POST usando apenas Python puro.
